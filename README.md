@@ -71,11 +71,11 @@ Full-Stack Developer
 
 Analista de Datos
 
-- Desarrollo, refactorización y optimización de scripts en Python
-- Procesamiento y normalización de datos
-- Uso de consultas SQL avanzadas para análisis de información
-- Automatización de procesos operativos
-- Mejora en la eficiencia del manejo de datos
+- Desarrollo, refactorización y optimización de scripts en Python.
+- Procesamiento y normalización de datos.
+- Uso de consultas SQL avanzadas para análisis de información.
+- Automatización de procesos operativos.
+- Mejora en la eficiencia del manejo de datos.
 
 ##
 
