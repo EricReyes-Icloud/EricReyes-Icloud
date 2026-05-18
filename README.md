@@ -1,4 +1,4 @@
-## 👋 Hola, soy Eric Reyes
+# 👋 Hola, soy Eric Reyes
 
 💻 Full-Stack Developer enfocado en interfaces web, arquitectura de producto y desarrollo asistido por IA.
 
