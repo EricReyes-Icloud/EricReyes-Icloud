@@ -31,7 +31,7 @@ Uso un flujo de trabajo basado en GitFlow:
 
 ##
 
-#### Desarrollo asistido por IA
+### Desarrollo asistido por IA
 
 Integro herramientas profesionales de IA dentro del ciclo de desarrollo:
 
@@ -48,7 +48,7 @@ Integro herramientas profesionales de IA dentro del ciclo de desarrollo:
 
 ##
 
-#### Experiencia Relevante
+### Experiencia Relevante
 
 **Sistema de Inventario y Contabilidad (Cliente Empresarial)**
 
@@ -79,7 +79,7 @@ Analista de Datos
 
 ##
 
-#### Stack Tecnológico:
+### Stack Tecnológico:
 
 **Lenguajes**
 
@@ -109,7 +109,7 @@ Analista de Datos
 
 ##
 
-#### Especialización:
+### Especialización:
 
 - Diseño e implementación de interfaces web orientadas a producto.
 - Desarrollo de aplicaciones full-stack escalables.
@@ -118,7 +118,7 @@ Analista de Datos
 
 ##
 
-#### Impacto:
+### Impacto:
 
 - Transformación de procesos manuales en sistemas automatizados.
 - Optimización mediante análisis estructurado de datos.
@@ -126,7 +126,7 @@ Analista de Datos
 
 ##
 
-#### Contacto:
+### Contacto:
 [![Email](https://img.shields.io/badge/Email-ereyes102504k%40icloud.com-black?style=for-the-badge)](mailto:ereyes102504k@icloud.com?subject=Interés%20en%20tu%20perfil&body=Hola%20Eric,%20me%20gustaría%20conversar%20contigo%20sobre%20una%20oportunidad.)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/eric-reyes-b96418343/)
