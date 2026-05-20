@@ -75,7 +75,6 @@ Analista de Datos
 - Procesamiento y normalización de datos.
 - Uso de consultas SQL avanzadas para análisis de información.
 - Automatización de procesos operativos.
-- Mejora en la eficiencia del manejo de datos.
 
 ##
 
