@@ -117,13 +117,6 @@ Analista de Datos
 
 ##
 
-### Impacto:
-
-- Transformación de procesos manuales en sistemas automatizados.
-- Optimización mediante análisis estructurado de datos.
-- Mejora del desarrollo usando integración inteligente de IA.
-
-##
 
 ### Contacto:
 [![Email](https://img.shields.io/badge/Email-ereyes102504k%40icloud.com-black?style=for-the-badge)](mailto:ereyes102504k@icloud.com?subject=Interés%20en%20tu%20perfil&body=Hola%20Eric,%20me%20gustaría%20conversar%20contigo%20sobre%20una%20oportunidad.)
