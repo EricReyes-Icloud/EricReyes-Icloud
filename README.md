@@ -69,7 +69,7 @@ Full-Stack Developer
 
 ##
 
-**ARS Internacional (Prácticas Laborales)**
+**ARS Internacional**
 
 Analista de Datos
 
