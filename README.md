@@ -121,6 +121,6 @@ Analista de Datos
 
 
 ### Contacto:
-[![Email](https://img.shields.io/badge/Email-ereyes102504k%40icloud.com-black?style=for-the-badge)](mailto:ereyes102504k@icloud.com?subject=Interés%20en%20tu%20perfil&body=Hola%20Eric,%20me%20gustaría%20conversar%20contigo%20sobre%20una%20oportunidad.)
+[![Email](https://img.shields.io/badge/Email-ereyes102504k%40icloud.com-black?style=for-the-badge)](mailto:ereyes102504k@icloud.com?subject=He%20visto%20tu%20perfil&body=Hola%20Eric,%20he%20visto%20tu%20perfil%20de%20Github%20y%20me%20gustaria%20que%20nos%20pusieramos%20en%20contacto.)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/eric-reyes-b96418343/)
